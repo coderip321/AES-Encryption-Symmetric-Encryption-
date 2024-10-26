@@ -49,7 +49,6 @@ This project is developed by **Coderip**, a passionate tech enthusiast focused o
 
 ## Contact Information
 - **Email**: khalidcamzy5@gmail.com
-- **LinkedIn**: your-linkedin-profile
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
