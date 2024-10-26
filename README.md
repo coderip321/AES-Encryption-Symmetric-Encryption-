@@ -1,3 +1,6 @@
+Here's the updated `README.md` with your GitLab link included:
+
+```markdown
 # AES Encryption Tool
 
 ## Instructions
@@ -45,10 +48,11 @@ pip install Flask pycryptodome win10toast
 5. After logging in, wait for 5 to 10 seconds to load the AES Encryption Tool interface.
 
 ## About the Creator
-This project is developed by **Coderip**, a passionate tech enthusiast focused on cybersecurity and innovative programming. For more information about my work, visit my [GitHub profile](https://github.com/coderip321).
+This project is developed by **Coderip**, a passionate tech enthusiast focused on cybersecurity and innovative programming. For more information about my work, visit my profiles:
+- [GitHub](https://github.com/coderip321)
+- [GitLab](https://gitlab.com/coderip320)
 
 ## Contact Information
 - **Email**: khalidcamzy5@gmail.com
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **GitHub**: [coderip321](https://github.com/coderip321)
+- **GitLab**: [coderip320](https://gitlab.com/coderip320)
