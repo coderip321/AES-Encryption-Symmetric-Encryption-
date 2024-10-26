@@ -48,7 +48,7 @@ pip install Flask pycryptodome win10toast
 This project is developed by **Coderip**, a passionate tech enthusiast focused on cybersecurity and innovative programming. For more information about my work, visit my [GitHub profile](https://github.com/coderip321).
 
 ## Contact Information
-- **Email**: your-email@example.com
+- **Email**: khalidcamzy5@gmail.com
 - **LinkedIn**: your-linkedin-profile
 
 ## License
