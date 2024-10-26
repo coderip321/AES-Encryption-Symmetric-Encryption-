@@ -1,5 +1,3 @@
-<?php
-/*
  * Project: AES Encryption Tool
  *
  * Architecture Plan:
